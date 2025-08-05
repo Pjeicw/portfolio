@@ -1,11 +1,5 @@
 # UknowTechno Portfolio
 
-[![GitHub Pages](https://img.shields.io/badge/Deployed%20on-GitHub%20Pages-blue)](https://your-username.github.io/portfolio)
-[![HTML5](https://img.shields.io/badge/Built%20with-HTML5%20%7C%20CSS3%20%7C%20JavaScript-brightgreen)](https://github.com/your-username/portfolio)
-
-## 🚀 Live Demo
-Visit my portfolio: **[https://your-username.github.io/portfolio](https://your-username.github.io/portfolio)**
-
 ## 👨‍💻 About
 Professional portfolio of **Phengsavanh Phanthavong (UknowTechno)** - Digital Architect & Full-Stack Developer specializing in financial systems and modern web technologies.
 
@@ -51,10 +45,10 @@ portfolio/
 - **Bilingual** professional (Lao, Thai, English)
 
 ## 📞 Contact
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **Email**: [Pjeycw@gmail.com](mailto:your-email@example.com)
 - **WhatsApp**: [+856 20 2891 5965](https://wa.me/8562028915965)
 - **LinkedIn**: [linkedin.com/in/phengsavanh](https://linkedin.com/in/phengsavanh)
-- **GitHub**: [github.com/your-username](https://github.com/Pjeicw)
+- **GitHub**: [github.com/Pjeycw](https://github.com/pjeycw)
 
 ---
 © 2025 UknowTechno. All rights reserved.
