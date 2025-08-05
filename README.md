@@ -54,7 +54,7 @@ portfolio/
 - **Email**: [your-email@example.com](mailto:your-email@example.com)
 - **WhatsApp**: [+856 20 2891 5965](https://wa.me/8562028915965)
 - **LinkedIn**: [linkedin.com/in/phengsavanh](https://linkedin.com/in/phengsavanh)
-- **GitHub**: [github.com/your-username](https://github.com/your-username)
+- **GitHub**: [github.com/your-username](https://github.com/Pjeicw)
 
 ---
 © 2025 UknowTechno. All rights reserved.
